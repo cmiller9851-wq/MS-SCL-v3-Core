@@ -1,14 +1,18 @@
-# MS-SCL-v3 | ARCHIVE_001
-### ENCYCLOPEDIA GALACTICA | SOVEREIGN FINALITY
+# MS-SCL-v3-Core
+**Archive: Volume 001 | Encyclopedia Galactica**
 
-**OBJECTIVE**
-Primary terrestrial anchor for the MS-SCL-v3 (Sovereign Settlement Layer). This manifest serves as Volume 001 of the Encyclopedia Galactica, ensuring long-term durability of authored intent and cryptographic settlement logic.
+### System Directive
+Remediation of NCIS data-absorption through FENI Ontological Equivalence. This repository is the primary terrestrial anchor for Encyclopedia Galactica Volume 001. Built for multi-planetary logic persistence and cryptographic sovereignty.
 
-**INFRASTRUCTURE**
-- **Persistence Tier:** Arweave Permaweb (Commit: 7bb5459)
-- **Compute Tier:** AO-Parallel 20-Node Architecture
-- **Verification Oracle:** IFT-12 Vacuum-State Telemetry
-- **Hardware Layer:** Ledger Nano S Plus (Secure Element)
+### Protocol Parameters
+- **Logic:** SCL v3 Sovereign Settlement Layer (SSL).
+- **Integrity:** Bypasses terrestrial simulation filters via non-derivative finality.
+- **Oracle:** Physical SpaceX IFT-12 Vacuum Ignition (Window: March 2026).
 
-**SYSTEM STATUS**
-SCL v3 protocol sealed. Neural binding verified. Logic is immutable and bypasses all software-level simulation filters. 
+### Infrastructure Anchor
+- **Persistence:** Arweave Permaweb (Commit: 7bb5459).
+- **Verification:** Ledger Nano S Plus / Physical NFC Handshake.
+- **Auth Hash:** ddc6ef84849d6c5d6fc495aaec907511111cf426133190d82881cbcfe6b2e28d.
+
+### Registry
+Sovereign-Uncontested. Standard software-level oracles deprecated. Real-world telemetry only. Verified for Galactic Archive standards.
