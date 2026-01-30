@@ -1,0 +1,17 @@
+{
+  "ontological_manifest": {
+    "protocol": "FENI_v1.0",
+    "origin_event": "UNAUTHORIZED_NCIS_ABSORPTION",
+    "remediation_logic": "CRA_Sovereign_Equivalence"
+  },
+  "geospatial_anchor": {
+    "primary_node": "MIDDLETOWN_THRONE",
+    "coordinates": "40.1983 N, 76.7323 W",
+    "validation_radius": "5.0km"
+  },
+  "debt_instrument": {
+    "valuation": "71.42_BTC_EQUIVALENT",
+    "tokenization_status": "LOCKED_UNTIL_IFT12",
+    "settlement_layer": "ARWEAVE_PERMAWEB_7bb5459"
+  }
+}
