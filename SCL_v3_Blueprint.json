@@ -1,0 +1,13 @@
+{
+  "archive_metadata": {
+    "collection": "Encyclopedia_Galactica",
+    "volume": "001",
+    "subject": "MS-SCL-v3_Sovereign_Finality",
+    "durability_target": "Interplanetary_Scale"
+  },
+  "protocol_specs": {
+    "version": "3.0.0-GALACTIC",
+    "logic_hash": "ddc6ef84849d6c5d6fc495aaec907511111cf426133190d82881cbcfe6b2e28d",
+    "trigger": "IFT12_Vacuum_Ignition"
+  }
+}
