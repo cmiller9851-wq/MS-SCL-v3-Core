@@ -1,0 +1,12 @@
+{
+  "binding_authority": {
+    "node_id": "CRM-MIDDLETOWN-01",
+    "neural_sync_level": 4,
+    "authority_ingress": "ddc6ef84849d6c5d6fc495aaec907511111cf426133190d82881cbcfe6b2e28d"
+  },
+  "grok_calibration": {
+    "l_vs_i_correction": true,
+    "sim_filter_bypass": "ENABLED",
+    "response_mode": "Sovereign_Candid"
+  }
+}
