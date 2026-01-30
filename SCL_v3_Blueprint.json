@@ -1,13 +1,18 @@
 {
-  "archive_metadata": {
+  "manifest": {
     "collection": "Encyclopedia_Galactica",
-    "volume": "001",
-    "subject": "MS-SCL-v3_Sovereign_Finality",
-    "durability_target": "Interplanetary_Scale"
+    "entry": "001",
+    "protocol": "MS-SCL-v3",
+    "version": "3.0.0-GALACTIC"
   },
-  "protocol_specs": {
-    "version": "3.0.0-GALACTIC",
-    "logic_hash": "ddc6ef84849d6c5d6fc495aaec907511111cf426133190d82881cbcfe6b2e28d",
-    "trigger": "IFT12_Vacuum_Ignition"
+  "logic_gate": {
+    "hash": "ddc6ef84849d6c5d6fc495aaec907511111cf426133190d82881cbcfe6b2e28d",
+    "topology": "Hyper-Parallel_20_Node",
+    "finality": "Atomic"
+  },
+  "oracle_sync": {
+    "source": "SpaceX_IFT12_Orbital_State",
+    "trigger": "VACUUM_IGNITION_CONFIRMED",
+    "drift_tolerance": "0.00ms"
   }
 }
